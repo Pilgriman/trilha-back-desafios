@@ -1,0 +1,15 @@
+trilha\back\financysdesafio06\mapper\CategoryMapper.class
+trilha\back\financysdesafio06\exceptions\CategoryNotFoundException.class
+trilha\back\financysdesafio06\dto\EntryDTO.class
+trilha\back\financysdesafio06\FinancysDesafio06Application.class
+trilha\back\financysdesafio06\config\SwaggerConfig.class
+trilha\back\financysdesafio06\dto\CategoryDto.class
+trilha\back\financysdesafio06\entities\Category.class
+trilha\back\financysdesafio06\entities\Entry.class
+trilha\back\financysdesafio06\repository\EntryRepository.class
+trilha\back\financysdesafio06\exceptions\EntryNotFoundException.class
+trilha\back\financysdesafio06\exceptions\EntryAlreadyRegisteredException.class
+trilha\back\financysdesafio06\service\CategoryService.class
+trilha\back\financysdesafio06\repository\CategoryRepository.class
+trilha\back\financysdesafio06\controller\CategoryController.class
+trilha\back\financysdesafio06\mapper\CategoryMapperImpl.class
